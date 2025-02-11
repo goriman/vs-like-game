@@ -1,0 +1,14 @@
+/* 例: CodePen の CSS コード */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #eee;
+  }
+  
+  #gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+  }
+  
